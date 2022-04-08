@@ -5,7 +5,7 @@ For all my personal work, please visit [Github: UX404](https://github.com/UX404)
 
 ## About
 
-I’m a third-year undergraduate student majoring in artificial intelligence at Shanghai Jiao Tong University. I am a member of SJTU MVIG lab under the supervision of Prof. Cewu Lu, mainly researching in the field of human pose estimation. Also, I'm a member of the NExT++ Center of National University of Singapore, working on video-related multi-modal learning as an online intern.
+I’m a third-year undergraduate student majoring in artificial intelligence at Shanghai Jiao Tong University. I am a member of SJTU [MVIG lab](https://mvig.sjtu.edu.cn/) under the supervision of Prof. Cewu Lu, mainly researching in the field of human pose estimation. Also, I'm a member of the [NExT++ Center](https://www.nextcenter.org/) of National University of Singapore, working on video-related multi-modal learning as an online intern.
 
 Through three years' study of undergraduate courses, I've gained basic knowledge of machine learning and coding ability on certain research topics. I'm especially interested in computer vision, reinforcement learning and natural language processing.
 
